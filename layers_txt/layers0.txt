@@ -43,6 +43,18 @@
       "errorTileUrl": "./image/map/no-data-english.png"
     },
     {
+          "type": "Layer",
+          "id": "disaster_lore_1",
+          "title": "自然災害伝承碑（土砂災害）",
+          "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/836.png",
+          "url": "https://maps.gsi.go.jp/xyz/disaster_lore_sediment/{z}/{x}/{y}.geojson",
+          "cocotile": true,
+          "minZoom": 7,
+          "maxZoom": 18,
+          "maxNativeZoom": 7,
+          "html": "<div class=\"gsi_layerinfo_subtitle\">自然災害伝承碑とは、過去に起きた自然災害の規模や被害の情報を伝える石碑やモニュメントです。</div><div  class=\"gsi_layerinfo_subtitle\"><a href='https://www.gsi.go.jp/bousaichiri/denshouhi.html' target='_blank'>詳細情報</a></div><div class=\"gsi_layerinfo_subtitle\">土砂災害の災害伝承碑を表示します。</div>"
+    },
+    {
       "type": "Layer",
       "id": "ort",
       "title": "写真",
