@@ -26,7 +26,7 @@
         },
 	        {
           "type": "Layer",
-          "id": "skhb01",
+          "id": "youthmappersagu",
           "title": "GeoJSONベクトルタイル貼り付けテスト",
           "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/skhb.png",
           "url": "https://mapconcierge.github.io/gsimaps/data/wheelmap/youthmappersagu/{z}/{x}/{y}.geojson",
